@@ -1,4 +1,4 @@
-### Hi there. Welcome to my github repo! 👋
+### Hi there. Welcome to my Github Repo! 👋
 
 <!--
 **AnalyticsWithJoy/AnalyticsWithJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
